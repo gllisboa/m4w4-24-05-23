@@ -13,7 +13,7 @@ jobs:
           node-version: 18.x
           cache: 'npm'
       - run: npm ci
-      - run: npm run jserver &
+      - run: npm run jserver &&
       - name: Install Postman CLI
         run: |
           curl -o- "https://dl-cli.pstmn.io/install/linux64.sh" | sh
