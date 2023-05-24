@@ -1,0 +1,22 @@
+{
+    "produto": [
+      {
+        "id": 1,
+        "nome": "Bota",
+        "categoria": "Calcado",
+        "preco": 99.99
+      },
+      {
+        "id": 2,
+        "nome": "Sandalha",
+        "categoria": "Calcado",
+        "preco": 33.99
+      },
+      {
+        "id": 3,
+        "nome": "Bermuda",
+        "categoria": "Roupa Masculino",
+        "preco": 55.99
+      }
+    ]
+  }
